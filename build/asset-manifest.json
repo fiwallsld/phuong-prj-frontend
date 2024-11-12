@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/phuong/static/css/main.35972c6e.css",
+    "main.js": "/phuong/static/js/main.ff0e2f50.js",
+    "index.html": "/index.html",
+    "main.35972c6e.css.map": "/phuong/static/css/main.35972c6e.css.map",
+    "main.ff0e2f50.js.map": "/phuong/static/js/main.ff0e2f50.js.map"
+  },
+  "entrypoints": [
+    "/phuong/static/css/main.35972c6e.css",
+    "/phuong/static/js/main.ff0e2f50.js"
+  ]
+}
